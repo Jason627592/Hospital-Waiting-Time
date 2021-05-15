@@ -1,0 +1,29 @@
+{
+  "name": "csci2720-project-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bouryu/csci2720-project-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bouryu/csci2720-project-backend/issues"
+  },
+  "homepage": "https://github.com/Bouryu/csci2720-project-backend#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.7",
+    "multer": "^1.4.2",
+    "node-fetch": "^2.6.1"
+  }
+}
