@@ -1,0 +1,20 @@
+[
+  {"hospitalId" : 1, "name" : "Pamela Youde Nethersole Eastern Hospital", "address" : "3 Lok Man Road, Chai Wan, HK", "latitude" : 22.26998253, "longitude" : 114.2367003 },
+  {"hospitalId" : 2, "name" : "Ruttonjee Hospital", "address" : "266 Queen's Road East, Wan Chai, HK", "latitude" : 22.275908631, "longitude" : 114.17529276 },
+  {"hospitalId" : 3, "name" : "St John Hospital", "address" : "Cheung Chau Hospital Road, Tung Wan, Cheung Chau", "latitude" : 22.208059492, "longitude" : 114.03150671 },
+  {"hospitalId" : 4, "name" : "Queen Mary Hospital", "address" : "102 Pokfulam Road, HK", "latitude" : 22.270429456, "longitude" : 114.13048628 },
+  {"hospitalId" : 5, "name" : "Kwong Wah Hospital", "address" : "25 Waterloo Road, KLN", "latitude" : 22.315173719, "longitude" : 114.17243887 },
+  {"hospitalId" : 6, "name" : "Queen Elizabeth Hospital", "address" : "30 Gascoigne Road, KLN", "latitude" : 22.309060045, "longitude" : 114.17464215 },
+  {"hospitalId" : 7, "name" : "Tseung Kwan O Hospital", "address" : "No. 2 Po Ning Lane, Hang Hau, Tseung Kwan O", "latitude" : 22.318262454, "longitude" : 114.27019647 },
+  {"hospitalId" : 8, "name" : "United Christian Hospital", "address" : "130 Hip Wo Street, Kwun Tong, KLN", "latitude" : 22.322245721, "longitude" : 114.22789967 },
+  {"hospitalId" : 9, "name" : "Caritas Medical Centre", "address" : "111 Wing Hong Street, Sham Shui Po, KLN", "latitude" : 22.340674346, "longitude" : 114.1526543 } ,
+  {"hospitalId" : 10, "name" : "North Lantau Hospital", "address" : "8 Chung Yan Road, Tung Chung, Lantau Island", "latitude" : 22.282570845, "longitude" : 113.93914094 },
+  {"hospitalId" : 11, "name" : "Princess Margaret Hospital", "address" : "2-10 Princess Margaret Hospital Road, Lai Chi Kok, Kowloon", "latitude" : 22.340146901, "longitude" : 114.13470541 },
+  {"hospitalId" : 12, "name" : "Yan Chai Hospital", "address" : "7-11 Yan Chai Street, Tsuen Wan, NT", "latitude" : 22.369482469, "longitude" : 114.11942365 },
+  {"hospitalId" : 13, "name" : "Alice Ho Miu Ling Nethersole Hospital", "address" : "11 Chuen On Road, Tai Po, NT", "latitude" : 22.458605506, "longitude" : 114.17481469 },
+  {"hospitalId" : 14, "name" : "North District Hospital", "address" : "9 Po Kin Road, Sheung Shui, NT", "latitude" : 22.496831828, "longitude" : 114.12456081 },
+  {"hospitalId" : 15, "name" : "Prince of Wales Hospital", "address" : "30-32 Ngan Shing Street, Shatin, NT", "latitude" : 22.379749496, "longitude" : 114.20123714 },
+  {"hospitalId" : 16, "name" : "Pok Oi Hospital", "address" : "Au Tau, Yuen Long, NT", "latitude" : 22.445400365, "longitude" : 114.0413931 },
+  {"hospitalId" : 17, "name" : "Tin Shui Wai Hospital", "address" : "11 Tin Tan Street, Tin Shui Wai, NT", "latitude" : 22.458711703, "longitude" : 113.9958431 },
+  {"hospitalId" : 18, "name" : "Tuen Mun Hospital", "address" : "23 Tsing Chung Koon Road, Tuen Mun, NT", "latitude" : 22.407224105, "longitude" : 113.9762333 }
+]

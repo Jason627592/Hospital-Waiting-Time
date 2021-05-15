@@ -1,0 +1,255 @@
+
+.App {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.nav-item{
+  font-size: large;
+}
+
+.theme-grey{
+  color: grey;
+}
+
+.theme-red{
+  color : red;
+}
+
+.center-child{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-parent-container{
+  background-color: #d2ebfa;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.login-dialog{
+  background-color: white;
+  border-radius: 16px;
+  display: flex;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 200px;
+  box-shadow: 0 5px 20px rgba(100, 100, 100, 0.3);
+}
+
+#login-button{
+  border-radius: 20px;
+  height: 50px;
+}
+
+.bg-layer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 10;
+  justify-content: center;
+}
+
+.base-dialog{
+  position: absolute;
+  background-color: white;
+  border-radius: 16px;
+  z-index: 20;
+  display: flex;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 200px;
+}
+
+.base-dialog-heading{
+  height: 30%;
+  justify-content: center;
+  text-align: center;
+}
+
+.base-dialog-body{
+  height: 70%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+
+.nav-bar-container{
+  background-color: #d2ebfa;
+  display: flex;
+  justify-content: center;
+}
+
+.hospital-list-item-container{
+  cursor: pointer;
+  height: 130px;
+  border-radius: 16px;
+  background-color: white;
+  box-shadow: 0 5px 20px rgba(100, 100, 100, 0.3);
+}
+
+.hospital-list-item-container:hover{
+  background-color: lightgrey;
+}
+
+.hospita-list-item-image-container{
+  height: 100%;
+}
+
+.hospital-list-item-image{
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.hospital-list-item-text{
+  align-self: center;
+  text-align: center;
+}
+
+.hospital-list-item-right-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.favourite-icon{
+  position: relative;
+  color: red;
+  z-index: 10;
+
+}
+
+.single-place-root-container{
+  background-color: lightcoral;
+  display: flex;
+  justify-content: space-around;
+}
+
+.single-place-left-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: lightcyan;
+}
+
+.single-place-right-container{
+  background-color: aqua;
+}
+
+.hospital-image-container{
+  width: auto; height: 500px; object-fit: cover;
+}
+
+.comment-list-item-root-container{
+  background-color: lightgreen;
+  display: flex;
+}
+
+.comment-list-item-left-container{
+  background-color: lightsalmon;
+}
+
+.comment-list-item-right-container{
+  background-color: magenta;
+}
+
+.map-container{
+  height: 80vh;
+}
+
+.waiting-time-chart-container{
+  width : 100%;
+  height: 30%;
+}
+
+.waiting-time-chart{
+  width: 100%;
+  height: 100%;
+  /* background-color: lightcoral; */
+}
+
+.sorting-searching-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.searching-container{
+  display: flex;
+}
+
+.loading-container{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.spinner-border{
+  height: 100%;
+  width: 100%;
+}
+
+.comment {
+  margin-top: 5%;
+  margin-left: 20px
+}
+.commentBox {
+  height: 500px;
+}
+
+#logout_button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+#admin_show_all_user{
+    width: 100%;
+    text-align: center;
+}
+
+#admin_show_all_user, #admin_show_all_user th, #admin_show_all_user td {
+  border: 1px solid black;
+}
+
+#reload-parent-container{
+  height: 200px;
+}
+
+#reload-button{
+  height: 100px;
+  width: 100px;
+}
+
+.user-name{
+  position: absolute;
+  top: 30px;
+  right: 20px;
+}
+
+#title-name-container{
+  display: flex;
+}
+
+@media only screen and (max-width: 800px) {
+  .user-name {
+    position: relative;
+  }
+}
